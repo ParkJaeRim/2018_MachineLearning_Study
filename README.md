@@ -15,7 +15,7 @@ Study with [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://s
 No. | Date | Participant | Content
 ---|---|---|---
 1 | 2018.07.02 | 박재림,곽우정,이종길,최근호 | Introduction, Chatper1
-2 | 2018.07.04 | 박재림,곽우정,이종길,최근호 | Introduce about project, Chapter2
+2 | 2018.07.04 | 박재림,곽우정,이종길,최근호 | Chapter2, Introduce about project
 3 | 2018.07.09 | 박재림,곽우정,이종길,최근호 | Chapter3, Introduce about own project1
 4 | 2018.07.12 | 박재림,곽우정,이종길,최근호 | Chapter4, Introduce about own project2
 5 | 2018.07.16 | 박재림,곽우정,최근호 | Chapter5
