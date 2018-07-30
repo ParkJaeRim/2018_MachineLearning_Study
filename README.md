@@ -7,7 +7,7 @@ on Every MON & THU
 
 ### Participant : 
 
-[박재림](https://github.com/ParkJaeRim)
+[박재림](https://github.com/ParkJaeRim) : Project = Predict Wine Quality
 
 [곽우정](https://github.com/kfriendship)
 
