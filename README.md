@@ -22,3 +22,5 @@ No. | Date | Participant | Content
 6 | 2018.07.19 | 박재림,곽우정,최근호 | Chapter6, Introduce about own dataset1
 7 | 2018.07.23 | 박재림,곽우정,최근호 | Chapter7
 8 | 2018.07.26 | 박재림,곽우정,최근호 | Chpater8, Introduce about own dataset2
+9 | 2018.07.30 | 박재림,곽우정,최근호 | Chpater9
+10 | 2018.08.02 | 박재림,곽우정,최근호 | Chapter10, Mid-term check about project
