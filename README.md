@@ -1,7 +1,10 @@
 # 2018_SummerStudy in BIL
 
-Study with [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) && [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning/home)
+Study with [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) 
+
+on Every MON & THU
 ***
+
 ### Participant : 
 
 [박재림](https://github.com/ParkJaeRim)
@@ -11,6 +14,7 @@ Study with [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://s
 [이종길]
 
 [최근호](https://github.com/cgh2797)
+
 ***
 No. | Date | Participant | Content
 ---|---|---|---
