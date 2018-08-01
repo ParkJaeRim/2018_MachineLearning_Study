@@ -7,13 +7,13 @@ on Every MON & THU
 
 ### Participant : 
 
-[박재림](https://github.com/ParkJaeRim) : Project = Predict Wine Quality
+[박재림](https://github.com/ParkJaeRim) | Project : Predict Wine Quality
 
-[곽우정](https://github.com/kfriendship)
+[곽우정](https://github.com/kfriendship) | Project : LUC Bike use Prediction
 
 [이종길]
 
-[최근호](https://github.com/cgh2797)
+[최근호](https://github.com/cgh2797) | Project : Titanic Survival Prediction
 
 ***
 
