@@ -28,4 +28,6 @@ No. | Date | Participant | Content | Project
 7 | 2018. 07. 23 | 박재림, 곽우정, 최근호 | Chapter7
 8 | 2018. 07. 26 | 박재림, 곽우정, 최근호 | Chpater8 | Introduce about own dataset2
 9 | 2018. 07. 30 | 박재림, 곽우정, 최근호 | Chpater9
-10 | 2018. 08. 02(예정) | 박재림, 곽우정, 최근호 | Chapter10 | Interim presentation about project
+10 | 2018. 08. 02 | 박재림, 곽우정, 최근호 | Chapter10 | Interim presentation about project
+11 | 2018. 08. 06 | 박재림, 곽우정, 최근호 | Chapter11 
+12 | 2018. 08. 13(예정) | 박재림, 곽우정, 최근호 | Chapter12,13
