@@ -31,4 +31,4 @@ No. | Date | Participant | Content | Project
 10 | 2018. 08. 02 | 박재림, 곽우정, 최근호 | Chapter10 | Interim presentation about project
 11 | 2018. 08. 06 | 박재림, 곽우정, 최근호 | Chapter11 
 12 | 2018. 08. 13 | 박재림, 곽우정, 최근호 | Chapter12,13
-13 | 2018. 08. 16 | 곽우정, 최근호 | Chapter14(
+13 | 2018. 08. 16 | 곽우정, 최근호 | Chapter14
